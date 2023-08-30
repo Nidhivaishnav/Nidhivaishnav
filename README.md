@@ -9,18 +9,21 @@
 Hi there 👋 I'm NIDHI VAISHNAV
 
 <div>
- <p>I am a dedicated and passionate Data Science and AI enthusiast, driven by an insatiable curiosity for the potential of data to transform the world. Through self-directed learning and hands-on projects, I have cultivated a deep understanding of data preprocessing, predictive modeling, and pattern recognition. I depict some important qualities of teamwork, leadership and being punctual.
+ <p>I am a dedicated and passionate Data Science and AI enthusiast, driven by an insatiable curiosity for the potential of data to transform the world.<br> Through self-directed learning and hands-on projects, I have cultivated a deep understanding of data preprocessing, predictive modeling, and pattern recognition.<br> I depict some important qualities of teamwork, leadership and being punctual.
 <br>
 I posses great understanding of data and how to process it to create a real worls solution to he problem</p>
 </div>
 
 Programming Languages 🌐
 <br>
-| Python <br>
-| Python <br>
-| Python <br>
-| Python <br>
-| Python <br>
+| Python <br><hr>
+| Tableu <br><hr>
+| PowerBI <br><hr>
+| SQL <br><hr>
+| HTML <br><hr>
+| CSS <br><hr>
+| JS <br><hr>
+
 
 |---|---|---|---|---|---|
  
