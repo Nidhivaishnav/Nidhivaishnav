@@ -9,14 +9,12 @@
 Hi there 👋 I'm NIDHI VAISHNAV
 
 <div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+ <p>I am a dedicated and passionate Data Science and AI enthusiast, driven by an insatiable curiosity for the potential of data to transform the world. Through self-directed learning and hands-on projects, I have cultivated a deep understanding of data preprocessing, predictive modeling, and pattern recognition. I depict some important qualities of teamwork, leadership and being punctual.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
+I posses great understanding of data and how to process it to create a real worls solution to he problem</p>
 </div>
 
-### Programming Languages 🌐
+Programming Languages 🌐
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
