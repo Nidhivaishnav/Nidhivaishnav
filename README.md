@@ -14,32 +14,14 @@ Hi there 👋 I'm NIDHI VAISHNAV
 I posses great understanding of data and how to process it to create a real worls solution to he problem</p>
 </div>
 
-Programming Languages 🌐
-<br>
-| Python <br><hr>
-| Tableu <br><hr>
-| PowerBI <br><hr>
-| SQL <br><hr>
-| HTML <br><hr>
-| CSS <br><hr>
-| JS <br><hr>
+Tech Stack<br>
+| Python | Tableu | ScikitLearn | Tensorflow | Keraas | PowerBI | HTML | CSS | JS | Numpy | Pandas
 
 
 |---|---|---|---|---|---|
  
-### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
 
-### Github Stats
-
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -54,12 +36,9 @@ Programming Languages 🌐
 ⭐️ From [@anandmainali](https://github.com/anandmainali)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 3-D Model generation using GANs
+- 🌱 I’m currently learning LSTM models along with transformers and GANs
+- 👯 I’m looking to collaborate on 3-D Model generation 
+- 📫 How to reach me: https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/
+- ⚡ Fun fact: I like to read and play Basketball
 -->
