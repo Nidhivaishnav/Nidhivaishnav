@@ -7,9 +7,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
-
+### Hi there 👋 I'm NIDHI VAISHNAV
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
