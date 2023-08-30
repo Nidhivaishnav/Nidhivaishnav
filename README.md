@@ -16,7 +16,7 @@ I posses great understanding of data and how to process it to create a real worl
 
 Tech Stack<br>
 | Python | Tableu | ScikitLearn | Tensorflow | Keraas | PowerBI | HTML | CSS | JS | Numpy | Pandas
-
+<br><hr>
 
 |---|---|---|---|---|---|
  
@@ -26,19 +26,17 @@ Tech Stack<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:nidhivaishnav1207@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@Nidhivaishnav](https://github.com/Nidhivaishnav)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 3-D Model generation using GANs
-- 🌱 I’m currently learning LSTM models along with transformers and GANs
-- 👯 I’m looking to collaborate on 3-D Model generation 
-- 📫 How to reach me: https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/
-- ⚡ Fun fact: I like to read and play Basketball
+- 🔭 I’m currently working on 3-D Model generation using GANs <br>
+- 🌱 I’m currently learning LSTM models along with transformers and  <br>
+- 👯 I’m looking to collaborate on 3-D Model generation <br>
+- 📫 How to reach me: https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/<br>
+- ⚡ Fun fact: I like to read and play Basketball<br>
 -->
