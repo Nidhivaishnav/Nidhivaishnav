@@ -26,14 +26,14 @@ Tech Stack<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:nidhivaishnav1207@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nidhivaishnav-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:nidhivaishnav1207@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nidhivaishnav1207@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
 ⭐️ From [@Nidhivaishnav](https://github.com/Nidhivaishnav)
 Here are some ideas to get you started:
-
+<br>
 - 🔭 I’m currently working on 3-D Model generation using GANs <br>
 - 🌱 I’m currently learning LSTM models along with transformers and  <br>
 - 👯 I’m looking to collaborate on 3-D Model generation <br>
