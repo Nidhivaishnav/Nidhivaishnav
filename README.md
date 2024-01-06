@@ -26,7 +26,7 @@ Tech Stack<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nidhi-vaishnav-9514a422b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nidhivaishnav-blue?style=flat&logo=linkedin"></a>
+<a href="www.linkedin.com/in/nidhivaishnav" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nidhivaishnav-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:nidhivaishnav1207@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nidhivaishnav1207@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
