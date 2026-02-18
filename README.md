@@ -12,7 +12,7 @@
 
 <!-- ────────── Social / Portfolio Badges ────────── -->
 <p align="center">
-  <a href="https://portfolio-bhandakkarparth.netlify.app/">
+  <a href="https://portfolio-nidhi.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-6366f1?style=for-the-badge&labelColor=0f0f23" />
   </a>&nbsp;
   <a href="https://github.com/Nidhivaishnav">
@@ -34,7 +34,7 @@
 Name       : Nidhi Vaishnav
 Education  : B.Tech ECE — IIIT Naya Raipur (2021–2025)
 Focus      : AI Systems · Data Engineering · Production-Grade ML
-Portfolio  : https://portfolio-bhandakkarparth.netlify.app/
+Portfolio  : https://portfolio-nidhi.netlify.app/
 ```
 
 I'm a passionate **AI & Data Engineer** who specializes in building end-to-end AI systems,
