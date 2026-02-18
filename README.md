@@ -188,7 +188,7 @@ ML system for classifying human activities from sensor data. Pattern recognition
 
 <p align="center">
   <a href="https://portfolio-nidhi.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-portfolio-nidhi.netlify.app-6366f1?style=for-the-badge&labelColor=0f0f23&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-portfolio--nidhi.netlify.app-6366f1?style=for-the-badge&labelColor=0f0f23&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
